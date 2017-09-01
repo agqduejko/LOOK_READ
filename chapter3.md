@@ -1,34 +1,34 @@
-### ■叫老闆拿錢出來
+### ���s���󮳿��X��
 
-A問：怎樣叫老闆拿錢出來？
-B想：拿出10元，拿出100元。
-C作：這怎麼可能，這我作不到啦！
-
----
-
-B:解決方案我都想到了，科技這樣進步，
-程式一定有辦法做到的，寫幾行CODE就行啦！
-這樣簡單，我給你SOP流程，你把它寫出來！
-
-> 1-拿出10元
-> 2-拿出100元
+A�ݡG��˥s���󮳿��X�ӡH
+B�Q�G���X10���A���X100���C
+C�@�G�o���i��A�o�ڧ@����աI
 
 ---
 
-C:不管了，那我做一個【老闆A】好了。
+B:�ѨM��קڳ��Q��F�A��޳o�˶i�B�A
+�{���@�w����k���쪺�A�g�X��CODE�N��աI
+�o��²��A�ڵ��ASOP�y�{�A�A�⥦�g�X�ӡI
 
-|  | 藍圖\_老闆A |
+> 1-���X10��
+> 2-���X100��
+
+---
+
+C:���ޤF�A���ڰ��@�ӡi����A�j�n�F�C
+
+|  | �Ź�\_����A |
 | :--- | :--- |
-| 功能 | 1-拿出10元 |
-|  | 2-拿出100元 |
+| �\�� | 1-���X10�� |
+|  | 2-���X100�� |
 
 ---
 
-### ■範例程式
+### ���d�ҵ{��
 
-![](/assets/002_1_叫老闆拿錢出來_20170801.PNG)
+![](/assets/002_1_�s���󮳿��X��_20170801.PNG)
 
-### ■C\#程式碼：
+### ��C\#�{���X�G
 
 [https://drive.google.com/open?id=0B9bTZZXAgysOdXZwcWtReU5WX0E](https://drive.google.com/open?id=0B9bTZZXAgysOdXZwcWtReU5WX0E)
 

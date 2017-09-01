@@ -22,11 +22,13 @@ C:不管了，那我做一個【老闆A】好了。
 | 功能 | 1-拿出10元 |
 |  | 2-拿出100元 |
 
-■範例程式
+---
 
-![](file:///D:\TEMP\msohtml1\08\clip_image002.jpg)![](/assets/002_1_叫老闆拿錢出來_20170801.PNG)
+### ■範例程式
 
-■C\#程式碼：
+![](file:///D:\TEMP\msohtml1\08\clip_image002.jpg)
+
+### ■C\#程式碼：
 
 [https://drive.google.com/open?id=0B9bTZZXAgysOdXZwcWtReU5WX0E](https://drive.google.com/open?id=0B9bTZZXAgysOdXZwcWtReU5WX0E)
 

@@ -1,6 +1,20 @@
-# My Awesome Book
+■把長頸鹿放進冰箱
 
-111
+A問：怎樣把長頸鹿放進冰箱？
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+B想：把冰箱門打開，把長頸鹿放進去。
+
+C作：這怎麼可能，這我作不到啦！
+
+
+
+B:解決方案我都想到了，科技這樣進步，
+
+程式一定有辦法做到的，寫幾行CODE就行啦！
+
+這樣簡單，我給你SOP流程，你把它寫出來！
+
+1-把冰箱門打開
+
+2-把長頸鹿放進去
 

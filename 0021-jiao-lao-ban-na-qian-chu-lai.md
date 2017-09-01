@@ -6,8 +6,6 @@ B想：拿出10元，拿出100元。
 
 C作：這怎麼可能，這我作不到啦！
 
-
-
 B:解決方案我都想到了，科技這樣進步，
 
 程式一定有辦法做到的，寫幾行CODE就行啦！
@@ -18,24 +16,17 @@ B:解決方案我都想到了，科技這樣進步，
 
 2-拿出100元
 
-  
 C:不管了，那我做一個【老闆A】好了。
 
 |  | 藍圖\_老闆A |
 | :--- | :--- |
 | 功能 | 1-拿出10元2-拿出100元 |
 
-
-
 ■範例程式
 
 ![](file:///D:\TEMP\msohtml1\08\clip_image002.jpg)![](/assets/002_1_叫老闆拿錢出來_20170801.PNG)
 
-
-
 ■C\#程式碼：
 
 [https://drive.google.com/open?id=0B9bTZZXAgysOdXZwcWtReU5WX0E](https://drive.google.com/open?id=0B9bTZZXAgysOdXZwcWtReU5WX0E)
-
-
 

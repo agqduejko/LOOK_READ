@@ -9,4 +9,5 @@
 * [004\_鬧鐘\_怎麼不叫](chapter4.md)
 * [005\_開演唱會](chapter5.md)
 * [006\_RUNNING_MAN](chapter6.md)
+* [007\_RUNNING_MAN1](chapter6.md)
 

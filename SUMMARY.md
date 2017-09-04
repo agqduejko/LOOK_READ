@@ -1,12 +1,14 @@
 # Summary
 
-- [介紹](README.md)
-- [1.把長頸鹿放進冰箱](chapter1.md)
-- [2.叫老闆拿錢出來](chapter2_1.md)
-  - [2.2.讓老闆體驗一下現實的殘酷](chapter2_2.md)
-  - [2.3.拿出錢，還要自己公佈](chapter2_3.md)
-- [3.開帳戶，三方交易](chapter3.md)
-- [4.鬧鐘，怎麼不叫](chapter4.md)
-- [5.開演唱會](chapter5.md)
-- [6.RUNNING MAN](chapter6.md)
+- [簡介](README.MD)
+- [1.把長頸鹿放進冰箱](CH_1.MD)
+  - [1.1.C#程式說明](CH_1_C#.MD)
+
+- [2.叫老闆拿錢出來](CH_2_1.MD)
+  - [2.2.讓老闆體驗一下現實的殘酷](CH_2_2.MD)
+  - [2.3.拿出錢，還要自己公佈](CH_2_3.MD)
+- [3.開帳戶，三方交易](CH_3.MD)
+- [4.鬧鐘，怎麼不叫](CH_4.MD)
+- [5.開演唱會](CH_5.MD)
+- [6.RUNNING MAN](CH_6.MD)
 

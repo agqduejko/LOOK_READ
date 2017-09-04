@@ -7,6 +7,6 @@
   - [2.3.拿出錢，還要自己公佈](chapter2_3.md)
 - [3.開帳戶，三方交易](chapter3.md)
 - [4.鬧鐘，怎麼不叫](chapter4.md)
-- [5.開演 唱會](chapter5.md)
+- [5.開演唱會](chapter5.md)
 - [6.RUNNING MAN](chapter6.md)
 

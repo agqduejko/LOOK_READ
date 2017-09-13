@@ -15,20 +15,25 @@ C#程式寫法：
 
 ---
 //藍圖-老闆C
-> public class 藍圖-老闆C {  
-> public int 現金=0;  
-> public int 能拿出的現金=0;  
-> public string 顯示="";//顯示用  
-> public delegate void 老闆-秀到-LOG(string AA);	//■1-宣告委派  
-> public 老闆-秀到-LOG 秀到-LOG;					//■2-把這個委派產生成物件  
-> //老闆3號.秀到-LOG = 秀到-LOG;	//■在主程式用	//■3-只讓它連結一次
+
+```
+public class 藍圖-老闆C {  
+public int 現金=0;  
+public int 能拿出的現金=0;  
+public string 顯示="";//顯示用  
+public delegate void 老闆-秀到-LOG(string AA);	//■1-宣告委派  
+public 老闆-秀到-LOG 秀到-LOG;					//■2-把這個委派產生成物件  
+//老闆3號.秀到-LOG = 秀到-LOG;	//■在主程式用	//■3-只讓它連結一次
+```
 
 //功能1-給他現金
-> public void 給他現金(int 給現金){  
-> 現金+=給現金;  
-> 顯示="拿到 " +給現金.ToString()+ " ，現在有 "+現金.ToString();  
-> 秀到-LOG(顯示);  
-> }//給他現金()--結束
+```
+public void 給他現金(int 給現金){  
+現金+=給現金;  
+顯示="拿到 " +給現金.ToString()+ " ，現在有 "+現金.ToString();  
+秀到-LOG(顯示);  
+}//給他現金()--結束
+```
 
 //功能2-拿出現金
 ```

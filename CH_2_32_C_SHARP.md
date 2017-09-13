@@ -8,9 +8,9 @@ C#程式寫法：
 > 老闆3號.秀到-LOG = 秀到-LOG;		//■在主程式用	//■3-只讓它連結一次  
 > }//主程式-MAIN--結束
 
-//主程式-功能
-> public void 秀到-LOG(string 字串){
-> TXB-LOG.AppendText("\r\n"+字串);
+//主程式-功能-秀到-LOG
+> public void 秀到-LOG(string 字串){  
+> TXB-LOG.AppendText("\r\n"+字串);  
 > }//秀到-LOG()--結束
 
 ---

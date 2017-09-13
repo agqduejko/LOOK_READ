@@ -28,7 +28,12 @@ D上帝/媽祖/神之音
 當科技這樣進步，一切都有可能辦得到的時候，
 問題只剩下一個【你想要怎麼做？】
 我的想法是【永續經營】，
-[讓寫CODE成為可以做一輩子的事](http://www.codedata.com.tw/social-coding/programming-all-my-life)
+[讓寫CODE成為可以做一輩子的事]
+(http://www.codedata.com.tw/social-coding/programming-all-my-life)
+
+備註：
+[消失的程式碼]
+(http://www.codedata.com.tw/social-coding/reproduce_bug/)
 
 ---
 

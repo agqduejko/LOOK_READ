@@ -28,11 +28,9 @@
 > if (this.InvokeRequired)  
 
 ■呼叫【主程式】  
-```
-public delegate void 委派ST(string AA);	//■1-宣告委派
-委派ST 執行;				//■2-把委派產生成物件
-執行=秀到_LOG;				//■3-只讓它連結一次
-```
+> public delegate void 委派ST(string AA);	//■1-宣告委派  
+> 委派ST 執行;					//■2-把委派產生成物件  
+> 執行=秀到_LOG;				//■3-只讓它連結一次  
 
 ■執行【主程式】的副程式  
 > Invoke(執行,字串);			//■4-執行
